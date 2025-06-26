@@ -21,7 +21,9 @@ Desenvolver uma inteligência artificial capaz de controlar formigas de forma ef
 - [neat-python](https://github.com/CodeReclaimers/neat-python) – Algoritmo genético NEAT
 - Algoritmos personalizados de simulação e lógica de evolução
 
----
+---![Captura de tela_2025-06-20_11-11-07](https://github.com/user-attachments/assets/15b7c377-6f3a-476e-9925-ed27196b1ebd)
+
+![Captura de tela_2025-06-20_13-12-06](https://github.com/user-attachments/assets/85fbeb0c-5d02-464d-b073-811f294ffee7)
 
 ## 🧪 Como Executar
 
